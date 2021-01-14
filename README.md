@@ -1,3 +1,7 @@
+
+
+
+
 # INF00 - Familiarización con el proceso de entrega
 
 Bienvenidos al laboratorio. Este primer bloque servirá para familiarizarte con la mecánica de entrega de prácticas, que será la misma de los exámenes.  En cada bloque se propone la realización de una serie de ejercicios. Cada uno de ellos consistirá en definir una o varias funciones. Debes definir todas las funciones en la entrega.
